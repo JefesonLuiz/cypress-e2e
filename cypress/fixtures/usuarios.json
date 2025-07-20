@@ -1,0 +1,66 @@
+{
+  "usuarios": [
+    {
+      "name": "Dracula",
+      "email": "dracula@alura.com",
+      "password": "Senha12345"
+    },
+    {
+      "name": "Frankenstein",
+      "email": "frankenstein@alura.com",
+      "password": "Senha123456"
+    },
+    {
+      "name": "The Mummy",
+      "email": "mummy@alura.com",
+      "password": "Senha1234567"
+    },
+    {
+      "name": "Werewolf",
+      "email": "werewolf@alura.com.br",
+      "password": "Senha12345678"
+    },
+    {
+      "name": "Godzilla",
+      "email": "godzilla@alura.com",
+      "password": "Senha123456789"
+    },
+    {
+      "name": "King Kong",
+      "email": "kong@alura.com.br",
+      "password": "Senha1234567890"
+    },
+    {
+      "name": "Chupacabra",
+      "email": "chupacabra@alura.com",
+      "password": "Senha12345"
+    },
+    {
+      "name": "Loch Ness Monster",
+      "email": "nessie@alura.com",
+      "password": "Senha123456"
+    },
+    {
+      "name": "Kraken",
+      "email": "kraken@alura.com.br",
+      "password": "Senha1234567"
+    },
+    {
+      "name": "Banshee",
+      "email": "banshee@alura.com",
+      "password": "Senha12345678"
+    },
+    {
+      "name": "Yeti",
+      "email": "yeti@alura.com.br",
+      "password": "Senha123456789"
+    },
+    {
+      "name": "Cthulhu",
+      "email": "cthulhu@alura.com",
+      "password": "Senha1234567890"
+    }
+  ]
+}
+
+  
